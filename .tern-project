@@ -1,0 +1,13 @@
+{
+  "ecmaVersion": "5",
+  "libs": [
+    "chai"
+  ],
+  "loadEagerly": [],
+  "dontLoad": [
+    
+  ],
+  "plugins": {
+    "doc_comment": true
+  }
+}

@@ -1,6 +1,5 @@
 class Chef {
   constructor() {
-    
   }
 }
 
