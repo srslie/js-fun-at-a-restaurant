@@ -1,11 +1,3 @@
-//
-// class Restaurant {
-//   constructor(name, menus) {
-//     this.name = name,
-//     this.menu = menus
-//   }
-// }
-
 function createRestaurant(restaurantName) {
   var restaurant = {
     name: restaurantName,
