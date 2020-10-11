@@ -1,5 +1,5 @@
 class Chef {
-  constructor(chefName, chefRestaurant, morningStatus) {
+  constructor(chefName, chefRestaurant) {
     this.name = chefName,
     this.restaurant = chefRestaurant
   }
