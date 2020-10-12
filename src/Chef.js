@@ -4,12 +4,8 @@ class Chef {
     this.restaurant = chefRestaurant
   }
 
-  greetCustomer(name, morningStatus) {
-    if (morningStatus) {
-      return `Good morning, ${name}!`
-    } else {
-    return `Hello, ${name}!`
-    }
+  greetCustomer(name, isMorning) {
+    return morningStatus ? `Good morning, ${name}!` :  return `Hello, ${name}!`
   }
 
   checkForFood(foodItem) {
